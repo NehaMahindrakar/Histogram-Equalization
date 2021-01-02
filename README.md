@@ -11,6 +11,6 @@ used to achieve better quality images in black and white color scales in medical
 applications such as digital X-rays, MRIs, and CT scans.
 It is mainly used in gray scale images, satellite images.
 
-The python code for image enhancement is given in Program[Program.py]
+The python code for image enhancement is given in [Program.py](program.py)
 
-An Example is : Image[input.png]
+An Example is : !Image[input.png]
