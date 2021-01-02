@@ -13,4 +13,4 @@ It is mainly used in gray scale images, satellite images.
 
 The python code for image enhancement is given in [Program.py](program.py)
 
-An Example is : !Image[input.PNG]
+!Image[input.PNG]
